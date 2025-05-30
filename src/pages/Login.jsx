@@ -50,7 +50,7 @@ export default function AMULoginPage() {
                         {/* Header */}
                         <div className="relative z-10 p-4 sm:p-6 lg:p-8">
                             <div className="flex items-center justify-between">
-                                <div className="text-white font-bold text-xl sm:text-2xl tracking-wide">AMU</div>
+                                <div className="text-white font-bold text-xl sm:text-2xl tracking-wide">MAC</div>
                                 <button className="hidden sm:flex text-white/80 text-xs sm:text-sm border border-white/30 rounded-full px-3 sm:px-5 py-1.5 sm:py-2 hover:bg-white/10 transition-all duration-200 items-center space-x-2">
                                     <span>Back to website</span>
                                     <svg className="w-3 h-3 sm:w-4 sm:h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
